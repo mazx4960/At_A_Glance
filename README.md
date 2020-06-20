@@ -1,4 +1,4 @@
-# Project <i>At A Glance</i>
+<h1 align="center">Project <i>At A Glance</i></h1>
 
 <p align="center">
  <a href="#"><img src="https://img.shields.io/badge/buy%20me%20a-coffee-yellow.svg"></a>
@@ -16,12 +16,12 @@ Currently, some of the APIs that would be used includes google news API (for new
 
 ## Features
 
-[ ] A Clean dashboard that displays important information at a glance
-    [ ] Tiles/cards support to segregate different kinds of information
-    [ ] Resizing of tiles/cards
-[ ] Themes support to choose how you want the dashboard to look
-[ ] Plugin support to allow 
-[ ] Dockerising the application
+- [ ] A Clean dashboard that displays important information at a glance
+    - [ ] Tiles/cards support to segregate different kinds of information
+    - [ ] Resizing of tiles/cards
+- [ ] Themes support to choose how you want the dashboard to look
+- [ ] Plugin support to allow 
+- [ ] Dockerising the application
 
 Installing
 ----------
