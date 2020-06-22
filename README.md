@@ -4,7 +4,7 @@
  <a href="#"><img src="https://img.shields.io/badge/buy%20me%20a-coffee-yellow.svg"></a>
  <img src="https://img.shields.io/badge/last%20updated-June%202020-3d62d1">
  <img src="https://img.shields.io/github/downloads/mazx4960/At-A-Glance/total">
- ![Django CI](https://github.com/mazx4960/At_A_Glance/workflows/Django%20CI/badge.svg)
+ <img src="https://github.com/mazx4960/At_A_Glance/workflows/Django%20CI/badge.svg">
 </p>
 
 ## About project <i>At A Glance</i>
