@@ -19,6 +19,7 @@ This website would be created using Django, a python web framework. This would b
     - [ ] Tiles/cards support to segregate different kinds of information
     - [ ] Resizing of tiles/cards
 - [ ] Themes support to choose how you want the dashboard to look
+- [ ] Pull data from any API you want to display (like a web postman)
 - [ ] Plugin support to allow greater customisation
 - [ ] Dockerising the application
 
