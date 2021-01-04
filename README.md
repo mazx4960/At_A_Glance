@@ -24,6 +24,8 @@ This website would be created using Django, a python web framework. This would b
 - [ ] Dockerising the application
 
 ## Current Plugin ideas
+- [ ] World trends (pytrends google trends API)
+- [ ] Stock Monitoring
 - [ ] News articles (google news API)
 - [ ] Weather reports 
 - [ ] Route planning (google maps API)
